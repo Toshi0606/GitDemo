@@ -8,7 +8,7 @@ public class GlobalSearchTest {
 	 public void Search()
 	 
 	 {
-		System.out.println("Hello Global");
+		System.out.println("Hello Global1");
 		System.out.println("Hello Search");
 	 }
 	
