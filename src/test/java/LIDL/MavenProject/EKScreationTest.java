@@ -18,6 +18,8 @@ public class EKScreationTest {
 	public void EKS2()
 	{
 		System.out.println("Hello EKS2");
+		System.out.println("Hello EKS22");
+		System.out.println("Hello EKS222");
 	}
 	
 	

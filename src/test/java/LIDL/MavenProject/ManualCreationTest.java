@@ -10,6 +10,9 @@ public class ManualCreationTest {
 	
 	{
 		System.out.println("Hello Manual1");
+		System.out.println("Hello Manual11");
+		System.out.println("Hello Manual111");
+		System.out.println("Hello Manual1111");
 	}
 	
 	@Test
