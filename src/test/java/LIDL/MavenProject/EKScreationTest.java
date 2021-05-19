@@ -9,6 +9,9 @@ public class EKScreationTest {
 	public void EKS1()
 	{
 		System.out.println("Hello EKS1");
+		System.out.println("Hello EKS2");// changes
+		System.out.println("Hello EKS3");//changes
+		System.out.println("Hello EKS4");//changes
 	}
 	
 	@Test
