@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-13T17:10:15 IST" name="Command line suite" finished-at="2021-05-13T17:10:15 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2021-05-13T17:10:15 IST" name="Command line test" finished-at="2021-05-13T17:10:15 IST" duration-ms="87">
+      <class name="LIDL.MavenProject.NotificationCreationTest">
+        <test-method signature="Notification1()[pri:0, instance:LIDL.MavenProject.NotificationCreationTest@4efbca5a]" started-at="2021-05-13T17:10:15 IST" name="Notification1" finished-at="2021-05-13T17:10:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Notification1 -->
+        <test-method signature="Notification2()[pri:0, instance:LIDL.MavenProject.NotificationCreationTest@4efbca5a]" started-at="2021-05-13T17:10:15 IST" name="Notification2" finished-at="2021-05-13T17:10:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Notification2 -->
+      </class> <!-- LIDL.MavenProject.NotificationCreationTest -->
+      <class name="LIDL.MavenProject.EKScreationTest">
+        <test-method signature="EKS1()[pri:0, instance:LIDL.MavenProject.EKScreationTest@1189dd52]" started-at="2021-05-13T17:10:15 IST" name="EKS1" finished-at="2021-05-13T17:10:15 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EKS1 -->
+        <test-method signature="EKS2()[pri:0, instance:LIDL.MavenProject.EKScreationTest@1189dd52]" started-at="2021-05-13T17:10:15 IST" name="EKS2" finished-at="2021-05-13T17:10:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EKS2 -->
+      </class> <!-- LIDL.MavenProject.EKScreationTest -->
+      <class name="LIDL.MavenProject.GlobalSearchTest">
+        <test-method signature="Search()[pri:0, instance:LIDL.MavenProject.GlobalSearchTest@9597028]" started-at="2021-05-13T17:10:15 IST" name="Search" finished-at="2021-05-13T17:10:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- LIDL.MavenProject.GlobalSearchTest -->
+      <class name="LIDL.MavenProject.ManualCreationTest">
+        <test-method signature="Manual1()[pri:0, instance:LIDL.MavenProject.ManualCreationTest@6069db50]" started-at="2021-05-13T17:10:15 IST" name="Manual1" finished-at="2021-05-13T17:10:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Manual1 -->
+        <test-method signature="Manual2()[pri:0, instance:LIDL.MavenProject.ManualCreationTest@6069db50]" started-at="2021-05-13T17:10:15 IST" name="Manual2" finished-at="2021-05-13T17:10:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Manual2 -->
+      </class> <!-- LIDL.MavenProject.ManualCreationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
